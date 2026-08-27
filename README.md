@@ -1,7 +1,8 @@
 <div align="center">
 
   <!-- Manifest Banner -->
-  <img src="manifest-banner.jpg" alt="Manifest Banner" width="100%" />
+  <img src="<img width="762" height="429" alt="313bf89afd8ca452d970ad54408bbf4f" src="https://github.com/user-attachments/assets/984cce79-b227-4945-85ff-ca9c89cc9ff9" />
+" alt="Manifest Banner" width="100%" />
 
   <!-- Gold/White Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
