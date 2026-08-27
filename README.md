@@ -28,13 +28,21 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,git,github,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
+---
+
 ### 📈 Activity & Growth
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=himanshhuu973&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshhuu973&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=himanshhuu973&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshhuu973&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshhuu973&theme=tokyonight" width="95%" alt="Summary Card" />
 </p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=himanshhuu973&color=D4AF37&style=flat-square&label=Profile+Impressions" alt="Visitor Count" />
+</div>
