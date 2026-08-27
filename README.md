@@ -1,9 +1,9 @@
 <div align="center">
 
  <!-- Manifest Banner -->
-  <img src="<img width="1199" height="685" alt="1cbdc12736056b79ae873bbdf1187bfe" src="https://github.com/user-attachments/assets/fd999e96-7bc7-4d9b-849e-a4f99467c256" />
+  "<img width="1199" height="685" alt="1cbdc12736056b79ae873bbdf1187bfe" src="https://github.com/user-attachments/assets/fd999e96-7bc7-4d9b-849e-a4f99467c256" />
 
-" alt="Manifest Banner" width="100%" />
+
   <!-- Gold/White Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=MANIFESTING+SUCCESS...;BUILDING+HIGH-SCALE+SYSTEMS;FULL+STACK+ENGINEER" alt="Typing SVG" />
@@ -14,7 +14,7 @@
 
   <!-- Minimal Dark Badges -->
   <p>
-    <a href="https://linkedin.com/in/himanshu-kumar"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=D4AF37" /></a>
+    <a href="https://linkedin.com/in/himanshhuu0734"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=D4AF37" /></a>
     <a href="mailto:himanshu79161@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=D4AF37" /></a>
     <a href="https://github.com/himanshhuu973"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=D4AF37" /></a>
   </p>
