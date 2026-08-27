@@ -1,7 +1,8 @@
 <div align="center">
 
   <!-- Manifest Banner -->
-  <img src="<img width="762" height="429" alt="313bf89afd8ca452d970ad54408bbf4f" src="https://github.com/user-attachments/assets/984cce79-b227-4945-85ff-ca9c89cc9ff9" />
+  <img src="<img width="1199" height="685" alt="1cbdc12736056b79ae873bbdf1187bfe" src="https://github.com/user-attachments/assets/fd999e96-7bc7-4d9b-849e-a4f99467c256" />
+
 " alt="Manifest Banner" width="100%" />
 
   <!-- Gold/White Animated Typing SVG -->
