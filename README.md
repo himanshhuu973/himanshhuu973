@@ -1,10 +1,9 @@
 <div align="center">
 
-  <!-- Manifest Banner -->
+ <!-- Manifest Banner -->
   <img src="<img width="1199" height="685" alt="1cbdc12736056b79ae873bbdf1187bfe" src="https://github.com/user-attachments/assets/fd999e96-7bc7-4d9b-849e-a4f99467c256" />
 
 " alt="Manifest Banner" width="100%" />
-
   <!-- Gold/White Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=MANIFESTING+SUCCESS...;BUILDING+HIGH-SCALE+SYSTEMS;FULL+STACK+ENGINEER" alt="Typing SVG" />
