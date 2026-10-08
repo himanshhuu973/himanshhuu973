@@ -26,8 +26,6 @@
 
 I'm a full stack developer who enjoys turning ideas into clean, fast, and maintainable web applications. I work across the whole MERN stack, from designing REST APIs and database schemas to building responsive React interfaces.
 
-- 🔭 Currently building: **[your current project]**
-- 🌱 Currently learning: **[e.g. TypeScript, Next.js, system design]**
 - 🤝 Open to: internships, freelance work, and open-source collaboration
 - 📫 Reach me at: **himanshu79161@gmail.com**
 
